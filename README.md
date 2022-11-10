@@ -4,9 +4,12 @@
 
 Некоторые записи изменены/дополнены мною с целью пополнения знаний.
 
-## Лекции
+## Содержание
+### [0. Рекомендуемая литература][lection_00]
 ### [1. Препроцессор, компилятор, компоновщик](01.compilation.md)
 
 
 ---
 [repoOrigin]: https://github.com/mtrempoltsev/msu_cpp_lectures
+[lection_00]: 00.literature.md
+[lection_01]: 01.compilation.md
