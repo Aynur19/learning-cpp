@@ -1,4 +1,6 @@
+int square(int value);
+
 int main()
 {
-	return 0;
+	return square(2);
 }
